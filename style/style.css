@@ -16,6 +16,9 @@ header{
 main{
     display: flex;
 }
+#titulo-logo{
+    width: 25%;
+}
 .sec-01{
     background-image: url("../img/pequena_sereia.jpeg");
     background-size:225%;
